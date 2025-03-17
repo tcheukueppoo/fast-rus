@@ -7,5 +7,18 @@ and lets you relearn offline.
 
 ## Features
 
-- Alphabets: Learn the signs and pronounciation of 
+* Alphabets: Learn the signs and pronounciation of alphabets.
+* Pronouns:
+* Verbs:
+* Conjugation: Learn to conjugate 
+* Noun:
+* Adjective:
+* Adverb:
+* Conjunction:
+* Vocabulary:
+* Dictation:
+* Pronunciation:
+
+## Installation
+
 
