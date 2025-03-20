@@ -7,13 +7,16 @@ and lets you relearn offline.
 
 ## Features
 
-* Alphabets: Learn the signs and pronounciation of alphabets.
-* Pronouns:
-* Verbs:
-* Conjugation: Learn to conjugate 
-* Noun:
-* Adjective:
-* Adverb:
+Fast-Rus has different sections, each dedicated to learning a particular aspect of the Russian language.
+
+* Alphabets: Learn the signs and pronounciation of Russian alphabets.
+* Pronouns: Russian pronouns are gendered and case-sensitive, dive deep into the different types of pronouns, including
+  personal, possesive, reflexive, demonstrative, interrogative, and relative pronouns.
+* Verbs: Explore the perfective and imperfective aspect of the russian verbs, with verbs conjugated based on person, number,
+  gender, and case.
+* Nouns: Learn Russian nouns, also categorized based on gender, number, and case.
+* Adjective: Russian adjective describes nouns and agree with them in gender, number, and case.
+* Adverb: Dive deep into  Russian adverbs with most of them formed from adjectives by adding specific suffixes.
 * Conjunction:
 * Vocabulary:
 * Dictation:
