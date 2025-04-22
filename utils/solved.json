@@ -1,0 +1,11 @@
+{
+    "server_hashes": ["YA6iz/i3ma5XfwCw3LSVsViyh+63rF3RZnueTA7XzqE=", "d7ca7mnm0A1CY8CnLI9UR70f1SGBTrAtkY3A8Ef9maY="],
+    "client_hashes": ["GEbsIfN+J9tdzAgerTOLK7hcZxfwjWszwORe26zm6T8=", "D0PUFY92AX7dnexzIHEoysraZ238dZtZaqwlKNId9oU="],
+    "signals": {},
+    "meta": {
+        "v": "1",
+        "challenge_id": "afebe113d66311c0774cee4eb206f76193b35b2a34ac3abea6c53221dde54857h8jbt",
+        "origin": "https://duckduckgo.com",
+        "stack": "ke@https://duckduckgo.com/dist/wpm.chat.227034fa144d75d4af83.js:1:30090\nasync*dispatchServiceInitialVQD@https://duckduckgo.com/dist/wpm.chat.227034fa144d75d4af83.js:1:45646\nonSuccess@https://duckduckgo.com/dist/wpm.chat.227034fa144d75d4af83.js:1:46656\n9620/l</Q<@https://duckduckgo.com/dist/wpmv.7bc357ea1037e5d693b1.js:2:226704\nasync*9620/l</<@https://duckduckgo.com/dist/wpmv.7bc357ea1037e5d693b1.js:2:227589\n... (44 more frames omitted)"
+    }
+}
